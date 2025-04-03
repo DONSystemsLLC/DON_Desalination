@@ -1,0 +1,31 @@
+solid sensor_mount_clip
+  facet normal 0 0 1
+    outer loop
+      vertex 10 10 0
+      vertex 30 10 0
+      vertex 30 30 0
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 10 10 0
+      vertex 30 30 0
+      vertex 10 30 0
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 10 10 10
+      vertex 10 30 10
+      vertex 30 30 10
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 10 10 10
+      vertex 30 30 10
+      vertex 30 10 10
+    endloop
+  endfacet
+endsolid sensor_mount_clip
+
