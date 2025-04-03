@@ -1,0 +1,20 @@
+# Byte-compiled / cache / system files
+__pycache__/
+*.py[cod]
+*.DS_Store
+
+# Logs / collapse outputs
+collapse_log.txt
+
+# Arduino build artifacts
+*.hex
+*.elf
+
+# Personal keys or API tokens (for future)
+.env
+*.pem
+
+# Local PATH components not for release
+PATH/
+TACE/
+
