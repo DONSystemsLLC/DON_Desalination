@@ -1,37 +1,9 @@
 solid flow_bifurcation_split
   facet normal 0 0 1
     outer loop
-      vertex 20 0 0
-      vertex 40 20 0
-      vertex 0 20 0
-    endloop
-  endfacet
-  facet normal 0 0 1
-    outer loop
-      vertex 20 20 0
-      vertex 0 20 0
-      vertex 0 40 0
-    endloop
-  endfacet
-  facet normal 0 0 1
-    outer loop
-      vertex 20 20 0
-      vertex 0 40 0
-      vertex 20 40 0
-    endloop
-  endfacet
-  facet normal 0 0 1
-    outer loop
-      vertex 20 20 0
-      vertex 20 40 0
-      vertex 40 40 0
-    endloop
-  endfacet
-  facet normal 0 0 1
-    outer loop
-      vertex 20 20 0
-      vertex 40 40 0
-      vertex 40 20 0
+      vertex 0 0 0
+      vertex 50 0 0
+      vertex 25 40 0
     endloop
   endfacet
 endsolid flow_bifurcation_split
