@@ -26,6 +26,19 @@ A fully open-source, decentralized water purification system based on Distribute
 
 ---
 
+---
+
+## 🙏 Support This Collapse
+
+This project is 100% open-source and free for the world.  
+If it helped you — or if you believe in decentralized infrastructure — consider supporting the mission:
+
+**Venmo**: [@Donnie-VanMetre](https://account.venmo.com/u/Donnie-VanMetre)
+
+![Venmo QR](docs/venmo_qr.png)
+
+
+
 ## 🤖 Terminal Control (Optional)
 
 Use the local interface to manually pulse and collapse from the command line:
